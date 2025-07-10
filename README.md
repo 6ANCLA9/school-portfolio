@@ -1,12 +1,13 @@
 # school-portfolio
 
-School-Portfolio
-Team Logo
-Subong Solutions Logo
+## Team Logo
+
+<img src="Assets/Team-Logo.png" width="300" alt="Subong Solutions Logo"><br>
 
 Above is our official team logo, which represents our identity and collaborative spirit.
 
-Contents
+## Contents
+
 Assets – Includes all media and resources utilized in this repository.
 
 Coursera Certificates – Official certificates awarded to team members.
